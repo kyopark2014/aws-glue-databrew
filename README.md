@@ -16,3 +16,5 @@ aws s3 cp s3://glue-databrew-immersionday-s3bucket3feedc04-achcipufxum1/ . --rec
 [AWS Glue Construct Library](https://docs.aws.amazon.com/cdk/api/v1/docs/aws-glue-readme.html)
 
 [Manage AWS Glue DataBrew Jobs with Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/connect-databrew.html)
+
+[Github - Glue DataBrew를 이용한 전처리](https://github.com/kyopark2014/aws-personalize/blob/main/workshop/databrew.md)
